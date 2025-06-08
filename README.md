@@ -26,7 +26,8 @@ This project explores monetization and marketing metrics for a SaaS product.
 
 ## 📷 Sample Dashboard
 
-![Revenue Dashboard](./Location Based Revenue Reports and User Metrics.png)
+![Revenue Dashboard](./dashboard-preview.png)
+
 
 ---
 
