@@ -2,6 +2,8 @@
 
 This project analyzes multi-step onboarding funnels, engagement patterns, and user retention using SQL, Amplitude, GA4, and Tableau.
 
+
+
 ## 📊 Funnel Analysis (Amplitude)
 
 Mapped onboarding journeys of 34.6k Android and 29.3k iOS users.  
@@ -16,7 +18,7 @@ iOS sessions averaged 46 minutes longer than Android.
 
 Visualized retention cohorts with 1.2k–1.6k users per group.
 
-![Retention Heatmap](./Cohort.png)
+![Retention Heatmap](./Cohort%20(1).png)
 
 
 
