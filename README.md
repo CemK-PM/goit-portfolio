@@ -26,7 +26,7 @@ This project explores monetization and marketing metrics for a SaaS product.
 
 ## 📷 Sample Dashboard
 
-![Revenue Dashboard](./dashboard-preview.png)
+![Revenue Dashboard](./Location Based Revenue Reports and User Metrics.png)
 
 ---
 
@@ -36,4 +36,4 @@ This project explores monetization and marketing metrics for a SaaS product.
 - Used SQL window functions to measure month-over-month campaign performance  
 - Built and communicated clear, actionable marketing dashboards  
 - Practiced combining Tableau, Sheets, and SQL in one data workflow
-# goit-portfolio
+
