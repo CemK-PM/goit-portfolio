@@ -24,6 +24,24 @@ This project explores monetization and marketing metrics for a SaaS product.
 
 ---
 
+
+<details>
+<summary>📊 Tableau Project – SaaS User Behavior Dashboard (click to expand)</summary>
+
+Developed a multi-layered Tableau dashboard visualizing the entire user funnel from initial app install through feature usage to final conversion, allowing stakeholders to identify weak points and optimize onboarding flow.
+
+Implemented retention curve analysis across iOS and Android cohorts, leveraging session timestamps and activity flags to monitor 7-day and 30-day retention gaps, revealing critical drop-off periods.
+
+Mapped the customer journey using interaction-based segmentation, enabling analysis of behavior by device type, user intent, and time-of-day activity peaks to guide personalized user strategies.
+
+Integrated event-level Amplitude exports with Tableau to create real-time performance indicators, comparing daily active usage trends, bounce rates, and session lengths by platform and acquisition channel.
+
+Designed an interactive dashboard experience with slicers and dynamic filters, allowing end users to segment by platform, engagement level, and usage frequency—facilitating self-service insights across departments.
+
+</details>
+
+
+
 ## 📷 Sample Dashboard
 
 ![Revenue Dashboard](./dashboard-preview.png)
