@@ -1,4 +1,4 @@
-# SaaS Funnel & Retention Analysis
+# SaaS Onboarding Funnel & Retention Analysis
 
 This project analyzes multi-step onboarding funnels, engagement patterns, and user retention using SQL, Amplitude, GA4, and Tableau.
 
