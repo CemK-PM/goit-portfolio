@@ -1,0 +1,28 @@
+# SaaS Funnel and Retention Analysis
+
+Multi-step user journey and retention analysis using SQL, Amplitude, GA4, and Tableau.
+
+
+
+## 📊 Funnel Overview (Amplitude)
+
+Mapped onboarding of 34.6k Android and 29.3k iOS users; 58%+ completed the flow.  
+iOS sessions averaged 46 minutes longer than Android.
+
+![Funnel Visualization](./images/Users_Onboarding_and_Retention_Analysis.png)
+
+
+
+## 📈 Retention Cohort (Tableau)
+
+Visualized cohort sizes (1.2k–1.6k users/group) and return behavior.
+
+![Retention Heatmap](./images/Cohort.png)
+
+
+
+## 🧾 Funnel SQL Query (GA4 + BigQuery)
+
+Tracked drop-offs from cart to purchase and calculated conversion rates.
+
+[📄 View SQL Query](./sql/ga4_funnel_full_query_from_user.sql)
