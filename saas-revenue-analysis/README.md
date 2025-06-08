@@ -2,6 +2,22 @@
 
 This project explores monetization and marketing metrics for a SaaS product.
 
+<details>
+<summary>🧾 Project Overview – Click to read full description</summary>
+
+This project focuses on analyzing the revenue performance and user monetization trends of a SaaS product using structured data from marketing campaigns and user behavior logs.
+
+The goal was to create a complete picture of how marketing spend translates into paying users and recurring revenue over time. Using SQL, Tableau, and Google Sheets, I processed and visualized key performance indicators such as ARPPU, MRR, CPC, CTR, ROAS, and ROMI across different acquisition channels and campaigns.
+
+The analysis began with a breakdown of paid user acquisition and its impact on revenue. Tableau dashboards were created to highlight geographic performance differences and monthly fluctuations in income. A cohort-based retention model was also implemented in Google Sheets to monitor long-term user engagement and identify where drop-offs occurred.
+
+In parallel, SQL queries were developed to automate the extraction of advertising metrics from campaign-level data, enabling weekly reporting and performance comparisons across platforms.
+
+The project serves as a full-cycle marketing analytics case, from data extraction to visualization and insight delivery, with a focus on business-relevant metrics and practical decision support for marketing teams.
+
+</details>
+
+
 ## 🔍 Key work:
 
 - Analyzed ARPPU (~$11) and MRR growth ($17K → $21K)
@@ -23,24 +39,6 @@ This project explores monetization and marketing metrics for a SaaS product.
 - [Cohort Retention Analysis – Google Sheets](https://docs.google.com/spreadsheets/d/1PSg_Jr3qz8FUQ5qzf0q-LJ87h20C8p0WM-TvZugrNbg/edit?gid=1608704866#gid=1608704866)
 
 ---
-
-
-<details>
-<summary>📊 Tableau Project – SaaS User Behavior Dashboard (click to expand)</summary>
-
-Developed a multi-layered Tableau dashboard visualizing the entire user funnel from initial app install through feature usage to final conversion, allowing stakeholders to identify weak points and optimize onboarding flow.
-
-Implemented retention curve analysis across iOS and Android cohorts, leveraging session timestamps and activity flags to monitor 7-day and 30-day retention gaps, revealing critical drop-off periods.
-
-Mapped the customer journey using interaction-based segmentation, enabling analysis of behavior by device type, user intent, and time-of-day activity peaks to guide personalized user strategies.
-
-Integrated event-level Amplitude exports with Tableau to create real-time performance indicators, comparing daily active usage trends, bounce rates, and session lengths by platform and acquisition channel.
-
-Designed an interactive dashboard experience with slicers and dynamic filters, allowing end users to segment by platform, engagement level, and usage frequency—facilitating self-service insights across departments.
-
-</details>
-
-
 
 ## 📷 Sample Dashboard
 
