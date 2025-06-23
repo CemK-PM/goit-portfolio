@@ -3,7 +3,7 @@
 This project explores monetization and marketing metrics for a SaaS product.
 
 <details>
-<summary>🧾 Project Overview – Click to read full description</summary>
+<summary>🧾 Project Overview - Click to read full description</summary>
 
 This project focuses on analyzing the revenue performance and user monetization trends of a SaaS product using structured data from marketing campaigns and user behavior logs.
 
