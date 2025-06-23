@@ -9,9 +9,7 @@ This project focuses on analyzing the revenue performance and user monetization 
 
 The goal was to create a complete picture of how marketing spend translates into paying users and recurring revenue over time. Using SQL, Tableau, and Google Sheets, I processed and visualized key performance indicators such as ARPPU, MRR, CPC, CTR, ROAS, and ROMI across different acquisition channels and campaigns.
 
-The analysis began with a breakdown of paid user acquisition and its impact on revenue. Tableau dashboards were created to highlight geographic performance differences and monthly fluctuations in income. A cohort-based retention model was also implemented in Google Sheets to monitor long-term user engagement and identify where drop-offs occurred.
-
-In parallel, SQL queries were developed to automate the extraction of advertising metrics from campaign-level data, enabling weekly reporting and performance comparisons across platforms.
+The analysis began with a breakdown of paid user acquisition and its impact on revenue. Tableau dashboards were created to highlight geographic performance differences and monthly fluctuations in income. In parallel, SQL queries were developed to automate the extraction of advertising metrics from campaign-level data, enabling weekly reporting and performance comparisons across platforms.
 
 The project serves as a full-cycle marketing analytics case, from data extraction to visualization and insight delivery, with a focus on business-relevant metrics and practical decision support for marketing teams.
 
