@@ -35,8 +35,7 @@ The project serves as a full-cycle marketing analytics case, from data extractio
 - [Location-Based Revenue Reports – Tableau](https://public.tableau.com/app/profile/cem.kahvecioglu/viz/UnitEconomicsSaaSFinancialMetrics/LocationBasedRevenueReportsandUserMetrics)
 - [Payment-Based Revenue Reports – Tableau](https://public.tableau.com/app/profile/cem.kahvecioglu/viz/Payment-BasedRevenueReports/PaymentDateReports)
 - [Monthly and Product-Based Revenue – Tableau](https://public.tableau.com/app/profile/cem.kahvecioglu/viz/RevenueReports_17492974831360/Dashboard1#1)
-- [Conversions Dashboard – Google Sheets](https://docs.google.com/spreadsheets/d/1_ceNWVBsuXzbWSdvaeN4gRUPaifxpr7i7EQ_j3RGzas/edit?gid=1012928360#gid=1012928360)
-- [Cohort Retention Analysis – Google Sheets](https://docs.google.com/spreadsheets/d/1PSg_Jr3qz8FUQ5qzf0q-LJ87h20C8p0WM-TvZugrNbg/edit?gid=1608704866#gid=1608704866)
+
 
 ---
 
