@@ -1,3 +1,6 @@
+The following query is written to understand the funnel logic using e-commerce data. 
+It aims to help grasp the fundamental structures before moving on to SaaS funnel analysis.
+
 
 with event as (
   Select
