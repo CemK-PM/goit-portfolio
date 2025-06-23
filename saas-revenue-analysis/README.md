@@ -21,7 +21,7 @@ The project serves as a full-cycle marketing analytics case, from data extractio
 ## 🔍 Key work:
 
 - Analyzed ARPPU (~$11) and MRR growth ($17K → $21K)
-- Built dashboards in Google Sheets and Tableau
+- Built dashboards in Tableau
 - Tracked revenue trends and user retention (12.5% by Month 9)
 - Used SQL to calculate CPC, CTR, ROAS, ROMI
 - Automated weekly reporting to save 30% manual work
