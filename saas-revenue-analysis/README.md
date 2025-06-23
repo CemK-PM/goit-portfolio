@@ -24,7 +24,7 @@ The project serves as a full-cycle marketing analytics case, from data extractio
 - Built dashboards in Tableau
 - Tracked revenue trends and user retention (12.5% by Month 9)
 - Used SQL to calculate CPC, CTR, ROAS, ROMI
-- Automated weekly reporting to save 30% manual work
+  
 
 **Tools used:** SQL, Tableau, Google Sheets, cohort analysis, marketing analytics
 
