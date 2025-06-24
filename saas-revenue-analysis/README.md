@@ -18,10 +18,10 @@ The project serves as a full-cycle marketing analytics case, from data extractio
 
 ## 🔍 Key work:
 
--Analyzed a SaaS dataset to understand monetization trends, with ARPPU holding around $11 and MRR increasing from $17K to over $21K. 
--Designed dashboards in Tableau to visualize revenue fluctuations (-7% to +22%) and long-term retention, which declined to 12.5% by Month 9. 
--Used SQL to assess campaign performance across channels, calculating CPC, CTR, ROAS, and identifying a ROMI peak of 228% on Facebook Ads. 
--Automated reporting processes with reusable SQL scripts
+- Analyzed ARPPU (~$11) and MRR growth ($17K → $21K)
+- Built dashboards in Tableau
+- Tracked revenue trends and user retention (12.5% by Month 9)
+- Used SQL to calculate CPC, CTR, ROAS, ROMI
   
 
 **Tools used:** SQL, Tableau, Google Sheets, cohort analysis, marketing analytics
