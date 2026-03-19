@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **Funnel Efficiency** | **58%+ completion rate** for core media-play action. |
 | **Platform Variance** | **iOS** sessions averaged **46 mins longer** than Android. |
-| **Engagement** | Analyzed active user dynamics for specific cohorts (~2.25k users) to monitor daily engagement trends using Amplitude. |
+| **Engagement** | Analyzed active user dynamics for specific cohorts **(~2.25k users)** to monitor daily engagement trends using Amplitude. |
 
 ---
 
